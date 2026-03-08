@@ -1,5 +1,5 @@
 # Delune
-
+<img width="449" height="439" alt="ChatGPT Image 8 Mar 2026 23_16_20(1)" src="https://github.com/user-attachments/assets/86daee3c-e8f6-405d-9b27-26b4b3d1d107" />
 Bu paket, ayrı **Delune Server** ve **Delune Client** uygulamalarından oluşan LAN / public IP / Hamachi odaklı bir prototiptir.
 
 ## İçerik
@@ -11,6 +11,7 @@ Bu paket, ayrı **Delune Server** ve **Delune Client** uygulamalarından oluşan
 - Dosya / resim / GIF gönderimi
 - Temel ekran paylaşımı önizlemesi
 - Server yönetim GUI'si
+
 
 ## Kurulum
 
