@@ -14,29 +14,20 @@ Bu paket, ayrı **Delune Server** ve **Delune Client** uygulamalarından oluşan
 
 ## Kurulum
 
-```bash
-pip install -r requirements.txt
-```
+
+
 
 ## Çalıştırma
 
 Sunucu:
 
 
-```
-
-İstemci:
-
-
-```
 
 ## Notlar
 
 - Bu sürüm bir **prototip**. Özellikle ses ve ekran paylaşımı tarafı, LAN / Hamachi için uygundur.
 - Büyük dosya gönderimi desteklenmez. Varsayılan üst sınır 5 MB.
 - Şifreleme, hesap sistemi, kalıcı veritabanı ve ileri seviye ekran paylaşımı bu pakette yok.
-- `sounddevice` için sistemde uygun ses sürücüsü gerekir.
-- Ekran paylaşımı için `mss` gerekir.
 
 
 Güncelleme notları:
