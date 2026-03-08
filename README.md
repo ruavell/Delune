@@ -22,14 +22,12 @@ pip install -r requirements.txt
 
 Sunucu:
 
-```bash
-python -m delune_server.server_app
+
 ```
 
 İstemci:
 
-```bash
-python -m delune_client.client_app
+
 ```
 
 ## Notlar
