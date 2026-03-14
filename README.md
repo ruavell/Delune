@@ -6,7 +6,7 @@ Bu paket, ayrı **Delune Server** ve **Delune Client** uygulamalarından oluşan
 
 ## İçerik
 
-<img width="1534" height="888" alt="resim" src="https://github.com/user-attachments/assets/50be9e49-7ea1-4203-ad5e-5b00258de73d" />
+
 
 
 - Metin sohbet
