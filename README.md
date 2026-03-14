@@ -66,6 +66,8 @@ Delune’un amacı:
 
 ## Planlanan / Geliştirilen Özellikler
 
+
+
 Aşağıdaki özellikler proje için aktif hedefler arasındadır:
 
 - Gelişmiş oda yönetimi
@@ -90,7 +92,10 @@ Aşağıdaki özellikler proje için aktif hedefler arasındadır:
 
 ### Server
 
- ![image alt](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2hoHvqE3-whQKK2QnBh9d1WAMc6AbuTqExk3i7NVTD0b1yCep0I30eBVuN3HT5BcHwvueRoRA8cC3bvmp0PHT06k64gYmQMXmFIUNHFGtzgtbSeRH4BPlX1ySG-NNCj7COVwpGnEMTW4VYgtBiiOgtw1gPKOOp6ytFtlTEYwYj6v243_8NZ_if3y-Ots/s320/logodelune.png)
+ ![image alt](https://blogger.googleusercontent.com/img/a/AVvXsEiY2cXT-yptvgfzVCDRhcz679bu-S7dAyu0om7HwlYi7qCiISrX-FuGCRRNAHCIvz-t37AQBGX2mll4FUeZPKlmmEm5ZH9WXKOLXxVjO0vb6lBt3ZgtjYQAZkVFkNqd0mX75b2R27b0cqFajFS_PxJnjgv96ciKHMMBJO7rOx76uFtNocSbdLUwrXPHksA)
+
+
+ ![image alt](https://blogger.googleusercontent.com/img/a/AVvXsEgQQdpVgkZQZNrQk4E_WJihvpfzPfcxSqKpS-EpFdnr2OEV4FWJ12UaLh7HWnfftENmKpvuyboLFO-SuqZWt9vfaI9AdZfwhC_23INUHMvCCudcufkDnLKpDEzJzGczKaItAg3M1exwe8R54xQUNlsczbi7bZq922escdwu6B4k3P8d8m2q94ZXrIbkGkc)
 
 
 Sunucu tarafı:
