@@ -213,6 +213,9 @@ bir masaüstü iletişim uygulamasına dönüştürmektir.
 
 ## Katkı
 ![image alt](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8K0aKKly-Zd3Y4JpKPRb-g4ml2EbARF-Lvjv22hIuOCaBiIr6vzYOAyP7jW33D1bnrsSTa55JbeBEcB8_e7wnPkCWW6UOauqLFyCMma5O9SMXyXQ3uuWUh1-Wgq9Xm_6c1bju5HlyLRcpgqp2V_rk10GFOgPBe74NHfH4qRKU4NQQp_SiUw-pBNREpTY/s320/maskot.png)
+
+
+
 Projeye katkı sağlamak isteyenler:
 
 - hata raporu açabilir
