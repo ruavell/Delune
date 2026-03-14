@@ -89,6 +89,10 @@ Aşağıdaki özellikler proje için aktif hedefler arasındadır:
 İstemci tarafı kullanıcı arayüzünü, sohbeti, sesli odaları ve medya etkileşimini yönetir.
 
 ### Server
+
+ ![image alt](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2hoHvqE3-whQKK2QnBh9d1WAMc6AbuTqExk3i7NVTD0b1yCep0I30eBVuN3HT5BcHwvueRoRA8cC3bvmp0PHT06k64gYmQMXmFIUNHFGtzgtbSeRH4BPlX1ySG-NNCj7COVwpGnEMTW4VYgtBiiOgtw1gPKOOp6ytFtlTEYwYj6v243_8NZ_if3y-Ots/s320/logodelune.png)
+
+
 Sunucu tarafı:
 
 - oda yönetimini
