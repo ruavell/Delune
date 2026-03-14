@@ -1,5 +1,5 @@
 # Delune
-![image alt](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2hoHvqE3-whQKK2QnBh9d1WAMc6AbuTqExk3i7NVTD0b1yCep0I30eBVuN3HT5BcHwvueRoRA8cC3bvmp0PHT06k64gYmQMXmFIUNHFGtzgtbSeRH4BPlX1ySG-NNCj7COVwpGnEMTW4VYgtBiiOgtw1gPKOOp6ytFtlTEYwYj6v243_8NZ_if3y-Ots/s320/logodelune.png)
+   ![image alt](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2hoHvqE3-whQKK2QnBh9d1WAMc6AbuTqExk3i7NVTD0b1yCep0I30eBVuN3HT5BcHwvueRoRA8cC3bvmp0PHT06k64gYmQMXmFIUNHFGtzgtbSeRH4BPlX1ySG-NNCj7COVwpGnEMTW4VYgtBiiOgtw1gPKOOp6ytFtlTEYwYj6v243_8NZ_if3y-Ots/s320/logodelune.png)
 
 
 **Delune**, relay altyapısı kullanan, klasik masaüstü iletişim uygulamalarından ilham alan, **Aero tarzı arayüze** sahip, **ücretsiz**, **güvenli**, **sesli ve yazılı iletişim** odaklı bir sohbet platformudur.
@@ -11,8 +11,13 @@ Uygulama; klasik sunucu mantığı, gelişmiş oda sistemi, sesli sohbet, yazıl
 ---
 
 ## Özellikler
-![image alt](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9ylzumKK9qsS5eNmYsSFppOkSHRyMmew8DmCXzDHOyMM9JvG2ukFWhNd4NXIjOzhlEmYL0XiTWaava0HqiTz4B7erChLzcL0QHpPcOvY48i_SPWz2ZmEUxz60KoLeu2kK_LCIQJ487mRiDyPTrEzZlF-SUlaOcjCKiMnqqBAm_oeQReLomGfHYqGPh40/s320/img1.png)
+  ![image alt](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9ylzumKK9qsS5eNmYsSFppOkSHRyMmew8DmCXzDHOyMM9JvG2ukFWhNd4NXIjOzhlEmYL0XiTWaava0HqiTz4B7erChLzcL0QHpPcOvY48i_SPWz2ZmEUxz60KoLeu2kK_LCIQJ487mRiDyPTrEzZlF-SUlaOcjCKiMnqqBAm_oeQReLomGfHYqGPh40/s320/img1.png)
 
+   ![image alt](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ-3LqMHcFoJG2j7hBa-NkGdF3vlbMP3P1Ge9Whp5_7gm3N4Czaf99tjShmkhf1-eCJ7ZvgjUhopxV5ChyphenhyphenykvIyiwLWCJ7TdS4Gbr_6W6c7FMDq9vk6sFEXpHb5u2cXYR9RNfc1FVayIetsEOA4Pwd6Re1gR9zoSa9HDnS0Xx7ujZ-kazqYeI0UWNhWvs/s320/img3.jpeg)
+
+
+
+- Relay tabanlı altyapı
 
 - Relay tabanlı altyapı
 - Klasik **Aero / eski masaüstü stiline** yakın arayüz
