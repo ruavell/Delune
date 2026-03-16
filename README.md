@@ -1,5 +1,5 @@
 # Delune
-   ![image alt](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2hoHvqE3-whQKK2QnBh9d1WAMc6AbuTqExk3i7NVTD0b1yCep0I30eBVuN3HT5BcHwvueRoRA8cC3bvmp0PHT06k64gYmQMXmFIUNHFGtzgtbSeRH4BPlX1ySG-NNCj7COVwpGnEMTW4VYgtBiiOgtw1gPKOOp6ytFtlTEYwYj6v243_8NZ_if3y-Ots/s320/logodelune.png)
+   ![image alt](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7hQaTdKfC0XUHHM4MfGIDAIC8pTHdM1aT_XWABRryPos25MT0il5I37bXD2y-aXfCis6S9esoWoFtWlwbSK6eQm1xXPb9kjs5ZHm3LkeD8vyK8hYgpO3JMZ12dTFwKV5YtVowFKhzuFKljG7D3KyIdVLJO__NcU95qwS6XPj6NCLAbqBe1izB3NBUJzI/s320/delune%20icon.png)
 
 
 **Delune**, relay altyapısı kullanan, klasik masaüstü iletişim uygulamalarından ilham alan, **Aero tarzı arayüze** sahip, **ücretsiz**, **güvenli**, **sesli ve yazılı iletişim** odaklı bir sohbet platformudur.
